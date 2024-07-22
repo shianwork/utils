@@ -1,0 +1,21 @@
+
+”	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÅªšşÿÿÿÿ8ã¡ÿÌ2J$1e74463b-f2f2-4d9c-a4b0-f48028b1c59c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( °Ö8ä¡ÿÌ2J$deb6d391-24cf-491a-94ca-69d9804f4c51
+
+java:S1223'"LRename this method to prevent any misunderstanding or make it a constructor.(ÑÂ°Ù8Óî‚Î2J$d26dd16c-215f-41f5-9a18-5c47a85d9eb6
+”
+java:S2095a"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Şêˆÿÿÿÿÿ8å¡ÿÌ2J$e026c24c-ff32-43f1-9cd8-71a5cdfad623
+r	java:S106)"+Replace this use of System.out by a logger.(¡™ıÒøÿÿÿÿ8½ç²Í2J$cf912bdc-63ef-49aa-89df-39207ffe3767
+m	java:S106-"+Replace this use of System.out by a logger.(ª‡¯8¾ç²Í2J$9a8c5c00-4ffd-4c25-b144-3bf99d6882c3
+l	java:S1068"+Replace this use of System.out by a logger.(ŞÅ„8Ó›„Î2J$58b9d5ca-645f-4062-8421-a10134cfa5f0
+m	java:S106F"+Replace this use of System.out by a logger.(÷ô¢8Ô›„Î2J$f18294f9-3f56-4c82-bcbc-1dea32f932a3
+r	java:S106J"+Replace this use of System.out by a logger.(ÌĞÇœúÿÿÿÿ8Õ›„Î2J$e33b265c-9cd8-4b99-bb35-3595965a8c07
+m	java:S106N"+Replace this use of System.out by a logger.(Ï¬õ»8Õ›„Î2J$526f1141-4783-4085-bbf5-36702c7f4cd0
+r	java:S106R"+Replace this use of System.out by a logger.(šè€ıÿÿÿÿ8Õ›„Î2J$78c592c0-408c-4ed8-ac43-367101b9821e
+m	java:S106V"+Replace this use of System.out by a logger.(•ù©¹8Ö›„Î2J$21377754-f30a-4917-9c32-e34a6def0bbb
+r	java:S106X"+Replace this use of System.out by a logger.(â»ºúÿÿÿÿ8Ö›„Î2J$d7810936-fb0d-4e0c-b68a-0d1c07ebb9ce
+r	java:S106["+Replace this use of System.out by a logger.(ˆ™éóøÿÿÿÿ8Ö›„Î2J$d6d922da-53cc-4608-9d9b-eef8dcdcfc26
+m	java:S106z"+Replace this use of System.out by a logger.(¨Ñ’ˆ8Ù›„Î2J$4c798b5a-ced5-45bb-8c40-9e9e8e878d63
+r	java:S106~"+Replace this use of System.out by a logger.(†–Ï®ÿÿÿÿÿ8Ù›„Î2J$c51e07be-fe2b-4034-a24b-a2f4a94b76e9
+„
+java:S5857Œ";Replace this use of a reluctant quantifier with "[^\\}]*+".(Éêşûÿÿÿÿ8î¡ÿÌ2J$bf603341-9595-4245-abc0-077d2f1534fe

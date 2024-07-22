@@ -1,0 +1,18 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( °Ö8ä¡ÿÌ2J$746f09f9-6224-4dd6-a320-b31b5fd7d073
+”
+java:S2095a"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Şêˆÿÿÿÿÿ8å¡ÿÌ2J$8ac3d017-16b9-459f-8cb7-012231e22e2e
+r	java:S106)"+Replace this use of System.out by a logger.(¡™ıÒøÿÿÿÿ8½ç²Í2J$2da48e80-b4f2-489f-99ca-51934ec8ffe0
+m	java:S106-"+Replace this use of System.out by a logger.(ª‡¯8¾ç²Í2J$7b51978a-fe2d-4374-bc8a-3758488af823
+l	java:S1068"+Replace this use of System.out by a logger.(ŞÅ„8Ó›„Î2J$75ec90de-4465-4202-9a79-909a5d105a58
+m	java:S106F"+Replace this use of System.out by a logger.(÷ô¢8Ô›„Î2J$b9b5b40e-c882-4258-890f-3a4ce60960d4
+r	java:S106J"+Replace this use of System.out by a logger.(ÌĞÇœúÿÿÿÿ8Õ›„Î2J$4c70040b-e156-4c3d-990e-8a503bd942a6
+m	java:S106N"+Replace this use of System.out by a logger.(Ï¬õ»8Õ›„Î2J$bd5ba085-bd49-48a9-b448-ee529f449a22
+r	java:S106R"+Replace this use of System.out by a logger.(šè€ıÿÿÿÿ8Õ›„Î2J$088179ec-095e-4d00-a8c6-60dd281f2870
+m	java:S106V"+Replace this use of System.out by a logger.(•ù©¹8Ö›„Î2J$6b9bc093-a77c-4797-a6cc-7e95ec82cb8f
+r	java:S106X"+Replace this use of System.out by a logger.(â»ºúÿÿÿÿ8Ö›„Î2J$3c68eec7-3f5f-4b33-a247-80d8e0e307d9
+r	java:S106["+Replace this use of System.out by a logger.(ˆ™éóøÿÿÿÿ8Ö›„Î2J$ebc664ae-2ee6-4f01-87a5-1f68ab24f657
+m	java:S106z"+Replace this use of System.out by a logger.(¨Ñ’ˆ8Ù›„Î2J$74157ada-285f-413a-b1d8-c3c0a8251615
+r	java:S106~"+Replace this use of System.out by a logger.(†–Ï®ÿÿÿÿÿ8Ù›„Î2J$93b68362-32ec-429e-bb98-6ab30000380d
+„
+java:S5857Œ";Replace this use of a reluctant quantifier with "[^\\}]*+".(Éêşûÿÿÿÿ8î¡ÿÌ2J$fff96919-2065-4299-b72a-67da19edc185
